@@ -1,6 +1,6 @@
 baseURL: "https://n1sch4l.netlify.app"
 languageCode: en-us
-title: NS
+title: Nischal Shrestha
 theme: PaperMod
 
 menu:
@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Nischal Shrestha"
-    subtitle: Hi 👋 I'm NS, a tech enthusiast who loves cybersecurity. Let's connect and create something awesome together!
+    subtitle: Hi 👋 I'm Nischal, a student in cybersecurity. Let's connect and create something awesome together!
 
  
     imageUrl: "home/me.jpg"
