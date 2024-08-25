@@ -75,7 +75,7 @@ params:
     - name: "github"
       url: "https://github.com/z3phyrusS"
     - name: "youtube"
-      url: "https://www.youtube.com/c/thetutorialguy7"
+      url: "https://www.youtube.com/c/thetutorialguy07"
 
   # text search
   fuseOpts:
